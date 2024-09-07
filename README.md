@@ -4,6 +4,8 @@
 
 The **Pollinator Pathways Website** is a React-based application designed for an environmental organization. It features a gallery of images, a search and filter system for discovering groups, and a responsive design. This project demonstrates skills in React, state management, and modern web development.
 
+![Pollinator Pathways Overview](pollinatorPathwaysWebsite.gif)
+
 ## Features
 
 - **Search Functionality**: Search for groups with a keyword search bar.
